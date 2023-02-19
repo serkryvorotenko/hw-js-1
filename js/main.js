@@ -1,3 +1,4 @@
+alert('Hello!')
 const userName = prompt('Как тебя зовут?');
 const userYear = prompt('Какого ты года рождения?');
 const userCountry = prompt('С какой ты страны?');
